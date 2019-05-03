@@ -1,0 +1,5 @@
+/build/
+/SystemIntegrationUppg1Client/target/
+/SystemIntegrationUppg1Server/build/
+/SystemIntegrationUppg1Server/dist/
+/SystemIntegrationUppg1Server/nbproject/private/
